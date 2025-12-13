@@ -2,4 +2,6 @@ name = "Documentation Style Guide"
 version = "0.1.0"
 description = "Important style guidelines for technical, prose-oriented documentation"
 license = "MIT"
-context-triggers = ["documentation", "docstring{s,}", "style guide", "guideline{s,}", "doc{s,}"]
+
+[triggers]
+context = ["documentation", "docstring{s,}", "style guide", "guideline{s,}", "doc{s,}"]
