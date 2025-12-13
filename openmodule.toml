@@ -4,4 +4,4 @@ description = "Important style guidelines for technical, prose-oriented document
 license = "MIT"
 
 [triggers]
-context = ["documentation", "docstring{s,}", "style guide", "guideline{s,}", "doc{s,}"]
+user-msg = ["documentation", "docstring{s,}", "style guide", "guideline{s,}", "doc{s,}"]
